@@ -1,0 +1,6 @@
+.idea/
+.dSYM/
+*.out
+*.o
+ft_strlcat.c
+demo
